@@ -8,8 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-resume/`, // This path is subpath of your hosting https://domain/portfolio
-  firstName: 'Nhuong',
-  lastName: 'Minh Hoang',
+  fullName: 'Hoang Minh Nhuong',
   // social
   socialLinks: [
     {
@@ -29,6 +28,6 @@ module.exports = {
     },
   ],
   email: 'nhuongmh@gmail.com',
-  phone: '+84981683925',
+  phone: '098-168-3925',
   address: 'District 7, HCMC, VN',
 };
